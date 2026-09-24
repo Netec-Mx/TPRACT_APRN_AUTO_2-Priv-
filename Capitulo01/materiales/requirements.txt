@@ -1,0 +1,7 @@
+# Versiones directas usadas en la validación del paquete.
+# Instalar en el kernel del notebook mediante %pip install -r requirements.txt.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+ipykernel==7.2.0
