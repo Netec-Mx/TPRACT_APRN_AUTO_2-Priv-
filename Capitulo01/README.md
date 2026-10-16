@@ -35,7 +35,7 @@ Haber revisado el curso **Aprendizaje automático supervisado: Regresión y clas
 
 ### Acceso requerido
 
-Equipo con Visual Studio Code, extensiones **Python** y **Jupyter** de Microsoft, y un intérprete Python de 64 bits preparado para formación. La familia de versiones prevista es **Python 3.11 a 3.13**. Use el entorno autorizado para el curso. La preparación detallada se encuentra en [requisitos del entorno](preparacion_entorno.md).
+Equipo con Visual Studio Code, extensiones **Python** y **Jupyter** de Microsoft, y un intérprete Python de 64 bits preparado para formación. La familia de versiones prevista es **Python 3.11 a 3.13**. Use el entorno autorizado para el curso. La preparación detallada se encuentra en [requisitos del entorno]
 
 ## Entorno de laboratorio
 
